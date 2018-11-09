@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <intent
+        android:action="gurbani.ujagar.Settings.PREFS_ONE"
+        android:targetClass="gurbani.ujagar.Settings"
+        android:targetPackage="gurbani.ujagar" />
+
+</PreferenceScreen>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/feedback.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/shabad_activity.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/shabad_activity.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/multi_page_web.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/multi_page_web.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/row.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/inspiration.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/inspiration.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/simplerow.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/simplerow.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/mylist.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/mylist.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/list_mobile.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/list_mobile.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/custom_view.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/custom_view.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/menu.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/slidingmenumain.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/exploded-aar/GurbaniUjagar/slidingMenu/unspecified/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/shabad_info.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/shabad_info.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/menu2.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/menu2.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout/group.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/group.xml"
+    }
+]

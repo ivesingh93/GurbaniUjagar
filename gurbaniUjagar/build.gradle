@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '23.0.2'
+
+    defaultConfig {
+        applicationId "gurbani.ujagar"
+        minSdkVersion 12
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':slidingMenu')
+    compile files('libs/GoogleAdMobAdsSdk-6.4.1.jar')
+    compile files('libs/icshqtcqgrphsd.jar')
+    compile files('libs/library-1.2.1.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+}

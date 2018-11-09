@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="9.23"
+            android:layout_marginTop="20dp"
+            android:text="Enter more than one initials of the words without the space. For shabad: "
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_shabad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="38.25"
+            android:text="myry mn nwmu AMimRqu pIau ]"
+            android:layout_marginTop="20dp"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5.00"
+            android:layout_marginTop="20dp"
+            android:text="For punjabi keyboard, enter:  "
+            android:textStyle="bold"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/punjabi_keyword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5.00"
+            android:text="mmn, mmnA, Xw mmnAp"
+            android:layout_marginBottom="20dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5.00"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:text="For english keyboard, enter:  "
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/english_keyword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5.00"
+            android:text="mmn, mmna, or mmnap"
+            android:layout_marginBottom="20dp"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</RelativeLayout>

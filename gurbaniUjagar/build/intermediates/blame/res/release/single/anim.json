@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/ivesingh/Documents/AndroidStudioProjects/GurbaniUjagar/gurbaniUjagar/src/main/res/anim/slide_up.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GurbaniUjagar.iml" filepath="$PROJECT_DIR$/GurbaniUjagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gurbaniUjagar/gurbaniUjagar.iml" filepath="$PROJECT_DIR$/gurbaniUjagar/gurbaniUjagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenu/slidingMenu.iml" filepath="$PROJECT_DIR$/slidingMenu/slidingMenu.iml" />
+    </modules>
+  </component>
+</project>

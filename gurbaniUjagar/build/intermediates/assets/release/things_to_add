@@ -1,0 +1,19 @@
+THINGS TO ADD:
+
+1. Bookmark Folders.
+2. Gurbani Dictionary By Word Taken From SriGranth.org
+3. Add Shabads only.
+4. Sharedpreference doesn't work when shabad activity is opened and shabad is shown, going back kills the shabad list.
+
+
+THINGS TO BE FIXED:
+1. DONE - Ang/Pauri/Ashtpadi Text Gets Deleted
+2. DONE - One Page bani name (Chaupai Sahib, Jaap Sahib, 6 paudi Anand Sahib, etc) gets deleted, number edittext and search box appears which shouldn’t. Should also disable Prev and Next buttons.
+3. DONE - Shabad search list returns null and throws exception.
+4. DONE - Ang does not exist when search button is clicked. ConstantsMethods.ang returns 0.
+5. When the page is reopened after the activity is destroyed, it doesn't save the translation/teeka that is selected before the activity is destroyed.
+
+
+Changing App Design:
+1. User can view Guru Granth Sahib in Different Translations, can view nitnem and other banis.
+2.
