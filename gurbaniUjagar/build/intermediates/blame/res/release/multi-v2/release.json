@@ -1,0 +1,183 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "43,44",
+                        "startColumns": "4,4",
+                        "startOffsets": "2531,2589",
+                        "endColumns": "57,55",
+                        "endOffsets": "2584,2640"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1008",
+                        "endColumns": "42",
+                        "endOffsets": "1046"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "2684",
+                        "endColumns": "42",
+                        "endOffsets": "2722"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,112",
+                        "endColumns": "51,52",
+                        "endOffsets": "106,160"
+                    },
+                    "to": {
+                        "startLines": "47,48",
+                        "startColumns": "4,4",
+                        "startOffsets": "2727,2779",
+                        "endColumns": "51,52",
+                        "endOffsets": "2774,2827"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endColumns": "38",
+                        "endOffsets": "149"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "2645",
+                        "endColumns": "38",
+                        "endOffsets": "2679"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "49,56",
+                        "startColumns": "4,4",
+                        "startOffsets": "2832,3123",
+                        "endLines": "55,58",
+                        "endColumns": "12,12",
+                        "endOffsets": "3118,3278"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "13,12,7,9,11,14,6,10,8,17,19,18,3,16,15,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "477,430,230,309,387,525,185,348,270,647,729,687,56,608,570,137,97",
+                        "endColumns": "47,46,39,38,42,44,44,38,38,39,45,41,40,38,37,47,39",
+                        "endOffsets": "520,472,265,343,425,565,225,382,304,682,770,724,92,642,603,180,132"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,150,190,229,272,317,362,401,440,480,526,568,609,648,686,734",
+                        "endColumns": "47,46,39,38,42,44,44,38,38,39,45,41,40,38,37,47,39",
+                        "endOffsets": "98,145,185,224,267,312,357,396,435,475,521,563,604,643,681,729,769"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

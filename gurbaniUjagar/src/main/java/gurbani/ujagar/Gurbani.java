@@ -118,7 +118,7 @@ public class Gurbani extends SlidingActivity implements Animation.AnimationListe
 
         // Slide Menu buttons' functions.
         slide_menu();
-        Toast.makeText(getApplicationContext(), "DB PATH " + Build.VERSION.SDK_INT, Toast.LENGTH_LONG).show();
+
         sggs_db = new SGGSDB(Gurbani.this);
         try {
             sggs_db.createDataBase();

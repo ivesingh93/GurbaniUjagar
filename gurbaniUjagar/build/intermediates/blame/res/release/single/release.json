@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_thumbler_small.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/thumbler_small.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_pic_2.jpg.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/pic_2.jpg"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_bookmark_del.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/bookmark_del.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_mylist.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/mylist.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_custom_view.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/custom_view.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_bookmark_add.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/bookmark_add.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable_button.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_progress_cyan.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/progress_cyan.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_screenshot.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/screenshot.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_menu2.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/menu2.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_menu.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_shabad_activity.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/shabad_activity.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_inspiration.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/inspiration.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable_styled_progress.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable/styled_progress.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_row.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_clear.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/clear.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_simplerow.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/simplerow.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_feedback.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/feedback.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_wallpaper2.jpg.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/wallpaper2.jpg"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_feedback.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/xml_preferences_headers.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/xml/preferences_headers.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_mainpage.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/mainpage.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_shabad_info.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/shabad_info.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_wallpaper3.jpg.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/wallpaper3.jpg"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_list_mobile.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/list_mobile.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_inspiration.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/inspiration.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/anim_slide_down.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_pic_1.jpg.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/pic_1.jpg"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_rate.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/rate.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_wallpaper1.jpg.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/wallpaper1.jpg"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_slidingmenumain.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/packaged_res/release/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_android.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/android.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_facebook.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_button_pointer.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/button_pointer.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_progress_red.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/progress_red.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_scringo_welcome_icon_1_right.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/scringo_welcome_icon_1_right.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_multi_page_web.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/multi_page_web.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_group.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/group.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_scringo_welcome_icon_1_left.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/scringo_welcome_icon_1_left.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/drawable-hdpi_back_space.png.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/drawable-hdpi/back_space.png"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/anim_slide_up.xml.flat",
+        "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/anim/slide_up.xml"
+    }
+]

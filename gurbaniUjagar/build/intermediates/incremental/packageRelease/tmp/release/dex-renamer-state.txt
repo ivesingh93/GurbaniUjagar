@@ -1,0 +1,4 @@
+#Thu Nov 15 16:29:20 IST 2018
+base.0=/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

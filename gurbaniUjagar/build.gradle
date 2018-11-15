@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion '23.0.2'
+    compileSdkVersion 19
 
     defaultConfig {
         applicationId "gurbani.ujagar"
         minSdkVersion 12
-        targetSdkVersion 28
+        targetSdkVersion 26
     }
 
     buildTypes {
@@ -16,12 +15,18 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
-    compile project(':slidingMenu')
-    compile files('libs/GoogleAdMobAdsSdk-6.4.1.jar')
-    compile files('libs/icshqtcqgrphsd.jar')
-    compile files('libs/library-1.2.1.jar')
-    compile files('libs/nineoldandroids-2.4.0.jar')
+    implementation project(':slidingMenu')
+    implementation files('libs/GoogleAdMobAdsSdk-6.4.1.jar')
+    implementation files('libs/icshqtcqgrphsd.jar')
+    implementation files('libs/library-1.2.1.jar')
+    implementation files('libs/nineoldandroids-2.4.0.jar')
+    implementation 'com.android.support:support-v4:19.0.0'
+    implementation 'com.google.code.gson:gson:2.8.2'
 }

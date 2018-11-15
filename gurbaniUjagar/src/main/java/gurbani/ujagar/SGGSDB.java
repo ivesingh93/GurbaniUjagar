@@ -1,5 +1,6 @@
 package gurbani.ujagar;
 
+import android.annotation.TargetApi;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.SQLException;
@@ -9,6 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
 import android.util.Log;
 
+import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -42,40 +44,29 @@ public class SGGSDB extends SQLiteOpenHelper {
 
      */
 
+
+
     public SGGSDB(Context context) {
         super(context, DB_NAME, null, DATABASE_VERSION);
+        DB_PATH =  context.getDatabasePath(DB_NAME).getAbsolutePath();
+
+        //context.getDatabasePath(DB_NAME).getPath();
         this.myContext = context;
-        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.P){
-            SQLiteDatabase database = getReadableDatabase();
-            DB_PATH = database.getPath();
-            database.close();
-
-        }else if(android.os.Build.VERSION.SDK_INT >= 4.2){
-            DB_PATH = context.getApplicationInfo().dataDir + "/databases/" + DB_NAME;
-            Log.i("DB Path", DB_PATH);
-        }else{
-            DB_PATH = "/data/data/" + context.getPackageName() + "/databases/" + DB_NAME;
-        }
-
 
 
     }
 
-    public void createDataBase() throws IOException {
-        boolean dbExist = checkDataBase();
-        if(dbExist){
-
-        }else{
-            //this.getReadableDatabase();
-            try{
-                copyDataBase();
-            }catch (IOException e){
-                throw new Error("Error copying database");
-            }
+    void createDataBase() throws IOException {
+        if(!checkDataBase()) {
+            this.getReadableDatabase();
+            copyDataBase();
+            this.close();
         }
     }
 
-    private boolean checkDataBase(){
+
+
+    private boolean checkDataBase() {
         SQLiteDatabase checkDB = null;
 
         try{
@@ -91,33 +82,30 @@ public class SGGSDB extends SQLiteOpenHelper {
         return checkDB != null ? true:false;
     }
 
-
     private void copyDataBase() throws IOException {
-        InputStream myInput = myContext.getAssets().open(DB_NAME);
-        String outFileName = DB_PATH;
-        this.myDataBase.close();
-        OutputStream myOutput = new FileOutputStream(outFileName);
+
+        InputStream mInput =  myContext.getAssets().open(DB_NAME);
+        String outfileName = DB_PATH;
+        OutputStream mOutput = new FileOutputStream(outfileName);
         byte[] buffer = new byte[1024];
-        int length;
-        while((length = myInput.read(buffer)) > 0){
-            myOutput.write(buffer, 0, length);
+        int mLength;
+        while ((mLength = mInput.read(buffer))>0) {
+            mOutput.write(buffer, 0, mLength);
         }
-
-        myOutput.flush();
-        myOutput.close();
-        myInput.close();
+        mOutput.flush();
+        mInput.close();
+        mOutput.close();
     }
 
-    public void openDataBase() throws SQLException {
-        String myPath = DB_PATH;
-        this.myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
+    boolean openDataBase() throws SQLException {
+        myDataBase = SQLiteDatabase.openDatabase(DB_PATH, null, SQLiteDatabase.CREATE_IF_NECESSARY);
+        return myDataBase != null;
     }
 
-    @Override
-    public synchronized void close() {
-        if (this.myDataBase != null) {
-            this.myDataBase.close();
-        }
+    public synchronized void close(){
+        if(myDataBase != null)
+            myDataBase.close();
+        //SQLiteDatabase.releaseMemory();
         super.close();
     }
 
@@ -127,9 +115,10 @@ public class SGGSDB extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-
     }
 
+
+    @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
     @Override
     public void onOpen(SQLiteDatabase db) {
         super.onOpen(db);
@@ -140,7 +129,7 @@ public class SGGSDB extends SQLiteOpenHelper {
     public Cursor getQueryResult(String column, int page_num){
 
         SQLiteDatabase db = this.getWritableDatabase();
-        db.close();
+        // db.close();
         Cursor cursor = null;
         String table = "";
         // Dasam Granth Banis - Only if Gurmukhi or Punjabi Translation.
@@ -164,8 +153,8 @@ public class SGGSDB extends SQLiteOpenHelper {
             // Banis from SGGS - Only if Gurmukhi, Punjabi, Teeka, and English Translations
         }else if(granthVars.getBani().equals(CHOTTA_ANAND_SAHIB)){
             String query =  "(SELECT * FROM 'SGGS' WHERE BANI_ID BETWEEN 1 AND 5 AND Bani=\"Anand Sahib\"\n" +
-                            "UNION\n" +
-                            "SELECT * FROM 'SGGS' WHERE BANI_ID=40 AND Bani=\"Anand Sahib\")\n";
+                    "UNION\n" +
+                    "SELECT * FROM 'SGGS' WHERE BANI_ID=40 AND Bani=\"Anand Sahib\")\n";
 
             if(column.equals(GURBANI)){
                 query = "SELECT Gurmukhi FROM " + query;
