@@ -1,5 +1,6 @@
-<RelativeLayout
+<android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,11 +10,15 @@
     android:layout_alignEnd="@+id/facebook">
 
     <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_above="@+id/linearLayout2"
         android:layout_alignParentTop="true"
-        android:layout_above="@+id/linearLayout2">
+        android:layout_gravity="center_horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
             android:id="@+id/inspiration"
@@ -22,23 +27,27 @@
     </FrameLayout>
 
     <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
+        android:id="@+id/linearLayout2"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/linearLayout2">
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
 
         <LinearLayout
-            android:orientation="horizontal"
+            android:id="@+id/linearLayout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
             android:layout_above="@+id/facebook"
-            android:layout_alignLeft="@+id/facebook"
             android:layout_alignStart="@+id/facebook"
-            android:id="@+id/linearLayout">
+            android:layout_alignLeft="@+id/facebook"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
 
             <Button
                 android:id="@+id/save"
@@ -46,21 +55,21 @@
                 android:layout_height="wrap_content"
                 android:layout_above="@+id/facebook"
                 android:layout_alignRight="@+id/facebook"
+                android:layout_marginRight="5dp"
                 android:text="Save"
                 android:textAllCaps="false"
-                android:layout_marginRight="5dp"
-                android:textSize="20sp"/>
+                android:textSize="20sp" />
 
             <Button
                 android:id="@+id/share"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignLeft="@+id/facebook"
                 android:layout_below="@+id/imageView1"
-                android:textAllCaps="false"
-                android:text="Share"
+                android:layout_alignLeft="@+id/facebook"
                 android:layout_marginLeft="5dp"
-                android:textSize="20sp"/>
+                android:text="Share"
+                android:textAllCaps="false"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <TextView
@@ -69,11 +78,11 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp"
             android:text="Like Sukrit on Facbeook"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_gravity="center_horizontal"
-            android:textSize="20sp"
             android:textIsSelectable="false"
-            android:layout_marginBottom="5dp"/>
+            android:textSize="20sp" />
     </LinearLayout>
-</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

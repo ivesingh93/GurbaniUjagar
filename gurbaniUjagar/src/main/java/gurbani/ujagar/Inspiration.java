@@ -10,6 +10,7 @@ import android.graphics.Matrix;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.provider.MediaStore;
@@ -29,6 +30,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -98,6 +100,11 @@ public class Inspiration extends SlidingFragmentActivity{
 		@SuppressLint({ "SetJavaScriptEnabled", "NewApi" })
 		public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 			final View rootView = inflater.inflate(R.layout.inspiration, container, false);
+			if (Build.VERSION.SDK_INT >= 29) {
+				LinearLayout li=rootView.findViewById(R.id.linearLayout2);
+				li.setPadding(0,0,0,130);
+
+			}
 			final TextView textView = (TextView)rootView.findViewById(R.id.facebook);
 			final Button save = (Button)rootView.findViewById(R.id.save);
 			final Button share = (Button)rootView.findViewById(R.id.share);

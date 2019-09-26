@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="gurbani.ujagar"
-      android:versionCode="61"
-      android:versionName="12.0"
-      split="lib_slice_7_apk">
-</manifest>

@@ -7,7 +7,7 @@
     android:versionName="12.0" >
 
     <uses-sdk
-        android:minSdkVersion="12"
+        android:minSdkVersion="15"
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
@@ -63,6 +63,10 @@
             android:name="gurbani.ujagar.Bookmark"
             android:screenOrientation="portrait" >
         </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
     </application>
 
 </manifest>
