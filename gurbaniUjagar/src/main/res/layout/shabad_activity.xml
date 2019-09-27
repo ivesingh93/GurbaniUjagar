@@ -87,18 +87,18 @@
                 android:textSize="13sp"/>
 
             <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Settings"
-                android:textSize="13sp"
-                android:id="@+id/settings" />
-
-            <Button
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:text="Info"
                 android:textSize="13sp"
                 android:id="@+id/info" />
+
+            <Button
+                android:id="@+id/settings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Settings"
+                android:textSize="13sp" />
 
         </LinearLayout>
 

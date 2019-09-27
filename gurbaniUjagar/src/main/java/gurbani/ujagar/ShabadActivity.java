@@ -10,6 +10,7 @@ import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.SQLException;
 import android.graphics.Typeface;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.text.Editable;
@@ -72,6 +73,12 @@ public class ShabadActivity extends SlidingActivity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		slide_menu();
 		setContentView(R.layout.shabad_activity);
+		if (Build.VERSION.SDK_INT >= 29) {
+
+			RelativeLayout li= (RelativeLayout) findViewById(R.id.relativeLayout1);
+			li.setPadding(0,0,0,170);
+
+		}
 
 		sp = PreferenceManager.getDefaultSharedPreferences(this);
 		spe = sp.edit();

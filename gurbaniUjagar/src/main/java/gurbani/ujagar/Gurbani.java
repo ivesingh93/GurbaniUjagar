@@ -110,6 +110,12 @@ public class Gurbani extends SlidingActivity implements Animation.AnimationListe
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.multi_page_web);
+        if (Build.VERSION.SDK_INT >= 29) {
+
+            LinearLayout li= (LinearLayout) findViewById(R.id.downview);
+           li.setPadding(0,0,0,170);
+
+        }
 
         // Initializing all the components.
         initialize();
