@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Work\GurbaniUjagar\slidingMenu\src\main\assets"/><source path="E:\Work\GurbaniUjagar\slidingMenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Work\GurbaniUjagar\slidingMenu\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/src/main/assets"/><source path="/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/src/debug/assets"/></dataSet></merger>

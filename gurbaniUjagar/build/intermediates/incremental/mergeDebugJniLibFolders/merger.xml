@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Work\GurbaniUjagar\gurbaniUjagar\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\Work\GurbaniUjagar\gurbaniUjagar\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/debug/jniLibs"/></dataSet></merger>

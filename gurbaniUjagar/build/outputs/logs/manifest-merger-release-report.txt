@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [:slidingMenu] /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d1bddb04d0d3435c5453eee07f242810/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f87bbbd5840eebe798502a835fcf710b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f9f6d2a913d6269346270706b017254f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87c3712ff6c7235dba4d688313fc57da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7f9b6e1683262f52efa426093f605b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09abe5f1835886c37f05a434703933de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d34ac2e7307f3e2f22b9c3d9bdf892dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9e9ef7f284bdfe3fc395c6da13c95f25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51859a42e623be5640e2955bc1a2dec7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a848ce6efc78002d545ba9e4b145b15a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a6c0fb833e774465cb15cf4173c8ff92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bad1a6c30ac4469441150a24c1a9cb7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b7815d6010c2c2d010b707cca94b0644/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aeeb49e96e930b8d1764861b4007927f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c33ca84669530af564f2d44983ac41ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/35a856cadad14aa2a5ccf255e10b230b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/579f7e1a07622956e2526d04c309fefd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e237991afedf40150c3bc455f5b15596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/36c5707b06d5eddfa40e69ba28ec4515/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04f7dbedf90e5f91da998449f6b4725b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a3443a0d443535b7ea62cad609c53f33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da2f4f2ac97c19b10cfa3e0aa50c4cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05f382c3882ebb2d2347fd248ad7a8fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:7:5-31
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:4:5-39
+	xmlns:android
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:6:5-29
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:5:5-45
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:13:22-77
+application
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:15:5-62:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b7815d6010c2c2d010b707cca94b0644/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b7815d6010c2c2d010b707cca94b0644/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:19:9-40
+activity#gurbani.ujagar.MainPage
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:21:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:26:27-74
+activity#gurbani.ujagar.Inspiration
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:29:9-32:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:30:13-39
+activity#gurbani.ujagar.ShabadActivity
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:33:9-36:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:34:13-42
+activity#gurbani.ujagar.Shabad
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:37:9-40:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:38:13-34
+activity#gurbani.ujagar.RaagIndex
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:41:9-44:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:42:13-37
+activity#gurbani.ujagar.AuthorIndex
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:45:9-48:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:46:13-39
+activity#gurbani.ujagar.Feedback
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:49:9-52:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:50:13-36
+activity#gurbani.ujagar.Gurbani
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:53:9-56:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:54:13-35
+activity#gurbani.ujagar.Bookmark
+ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:57:9-60:20
+	android:screenOrientation
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml:58:13-36
+uses-sdk
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+MERGED from [:slidingMenu] /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingMenu] /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d1bddb04d0d3435c5453eee07f242810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d1bddb04d0d3435c5453eee07f242810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f87bbbd5840eebe798502a835fcf710b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f87bbbd5840eebe798502a835fcf710b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f9f6d2a913d6269346270706b017254f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f9f6d2a913d6269346270706b017254f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87c3712ff6c7235dba4d688313fc57da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87c3712ff6c7235dba4d688313fc57da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7f9b6e1683262f52efa426093f605b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7f9b6e1683262f52efa426093f605b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09abe5f1835886c37f05a434703933de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09abe5f1835886c37f05a434703933de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d34ac2e7307f3e2f22b9c3d9bdf892dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d34ac2e7307f3e2f22b9c3d9bdf892dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9e9ef7f284bdfe3fc395c6da13c95f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9e9ef7f284bdfe3fc395c6da13c95f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51859a42e623be5640e2955bc1a2dec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51859a42e623be5640e2955bc1a2dec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a848ce6efc78002d545ba9e4b145b15a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a848ce6efc78002d545ba9e4b145b15a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a6c0fb833e774465cb15cf4173c8ff92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a6c0fb833e774465cb15cf4173c8ff92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bad1a6c30ac4469441150a24c1a9cb7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bad1a6c30ac4469441150a24c1a9cb7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b7815d6010c2c2d010b707cca94b0644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b7815d6010c2c2d010b707cca94b0644/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aeeb49e96e930b8d1764861b4007927f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aeeb49e96e930b8d1764861b4007927f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c33ca84669530af564f2d44983ac41ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c33ca84669530af564f2d44983ac41ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/35a856cadad14aa2a5ccf255e10b230b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/35a856cadad14aa2a5ccf255e10b230b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/579f7e1a07622956e2526d04c309fefd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/579f7e1a07622956e2526d04c309fefd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e237991afedf40150c3bc455f5b15596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e237991afedf40150c3bc455f5b15596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/36c5707b06d5eddfa40e69ba28ec4515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/36c5707b06d5eddfa40e69ba28ec4515/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04f7dbedf90e5f91da998449f6b4725b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04f7dbedf90e5f91da998449f6b4725b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a3443a0d443535b7ea62cad609c53f33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a3443a0d443535b7ea62cad609c53f33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da2f4f2ac97c19b10cfa3e0aa50c4cf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da2f4f2ac97c19b10cfa3e0aa50c4cf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05f382c3882ebb2d2347fd248ad7a8fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ivkaran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05f382c3882ebb2d2347fd248ad7a8fa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		ADDED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/AndroidManifest.xml

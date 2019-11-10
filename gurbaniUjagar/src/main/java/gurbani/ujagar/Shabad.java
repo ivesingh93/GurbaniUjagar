@@ -6,13 +6,16 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Typeface;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
@@ -103,6 +106,10 @@ public class Shabad extends SlidingListActivity {
         setListAdapter(new MyCustomAdapter(Shabad.this, R.layout.mylist, ShabadActivity.arr));
         final ListView list = getListView();
         list.setBackgroundColor(Color.rgb(85, 129, 136));
+
+        if (Build.VERSION.SDK_INT >= 29) {
+            list.setPadding(0,0,0,150);
+        }
 
     }
 

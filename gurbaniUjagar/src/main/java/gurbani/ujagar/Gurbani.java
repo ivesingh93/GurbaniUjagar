@@ -113,7 +113,7 @@ public class Gurbani extends SlidingActivity implements Animation.AnimationListe
         if (Build.VERSION.SDK_INT >= 29) {
 
             LinearLayout li= (LinearLayout) findViewById(R.id.downview);
-           li.setPadding(0,0,0,170);
+           li.setPadding(0,0,0,150);
 
         }
 

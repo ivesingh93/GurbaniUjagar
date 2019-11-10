@@ -1,0 +1,1605 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "259,260",
+                        "startColumns": "4,4",
+                        "startOffsets": "19116,19174",
+                        "endColumns": "57,55",
+                        "endOffsets": "19169,19225"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/slidingMenu/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1008",
+                        "endColumns": "42",
+                        "endOffsets": "1046"
+                    },
+                    "to": {
+                        "startLines": "292",
+                        "startColumns": "4",
+                        "startOffsets": "21165",
+                        "endColumns": "42",
+                        "endOffsets": "21203"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "140,141,147,149,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,287,288,290,291,293,294,295,296,297,298,300,303,314,315,320,323,328,330,331",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6393,6462,6803,6934,19230,19300,19368,19440,19510,19571,19645,19718,19779,19840,19902,19966,20028,20089,20157,20257,20317,20383,20456,20525,20582,20634,20908,20980,21095,21130,21208,21258,21319,21376,21410,21445,21540,21715,22237,22354,22621,22914,23181,23377,23449",
+                        "endLines": "140,141,147,149,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,287,288,290,291,293,294,295,296,297,298,300,303,314,318,320,326,328,330,331",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "6457,6520,6856,7003,19295,19363,19435,19505,19566,19640,19713,19774,19835,19897,19961,20023,20084,20152,20252,20312,20378,20451,20520,20577,20629,20691,20975,21051,21125,21160,21253,21314,21371,21405,21440,21475,21605,21781,22349,22550,22726,23110,23305,23444,23511"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,112",
+                        "endColumns": "51,52",
+                        "endOffsets": "106,160"
+                    },
+                    "to": {
+                        "startLines": "301,302",
+                        "startColumns": "4,4",
+                        "startOffsets": "21610,21662",
+                        "endColumns": "51,52",
+                        "endOffsets": "21657,21710"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d34ac2e7307f3e2f22b9c3d9bdf892dd/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,102",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,5935",
+                        "endLines": "2,104",
+                        "endColumns": "60,12",
+                        "endOffsets": "111,6075"
+                    },
+                    "to": {
+                        "startLines": "15,332",
+                        "startColumns": "4,4",
+                        "startOffsets": "614,23516",
+                        "endLines": "15,334",
+                        "endColumns": "60,12",
+                        "endOffsets": "670,23656"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endColumns": "38",
+                        "endOffsets": "149"
+                    },
+                    "to": {
+                        "startLines": "289",
+                        "startColumns": "4",
+                        "startOffsets": "21056",
+                        "endColumns": "38",
+                        "endOffsets": "21090"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56368618515ad66f0919eb8eea9ddab8/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,11,12,13,14,15,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,407,455,507,568,614,741,802,862,932,1065,1133,1262,1388,1450,1515,1583,1650,1773,1898,1965,2030,2095,2276,2397,2518,2584,2651,2861,2930,2996,3121,3247,3314,3440,3567,3692,3819,3884,4010,4133,4198,4406,4473,4653,4773,4893,4958,5020,5082,5144,5203,5263,5324,5385,5444",
+                        "endLines": "2,10,11,12,13,14,18,19,20,21,24,25,28,31,32,33,34,35,38,41,42,43,44,49,52,55,56,57,62,63,64,67,70,71,74,77,80,83,84,87,90,91,96,97,102,105,108,109,110,111,112,113,114,115,116,117,126",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "111,402,450,502,563,609,736,797,857,927,1060,1128,1257,1383,1445,1510,1578,1645,1768,1893,1960,2025,2090,2271,2392,2513,2579,2646,2856,2925,2991,3116,3242,3309,3435,3562,3687,3814,3879,4005,4128,4193,4401,4468,4648,4768,4888,4953,5015,5077,5139,5198,5258,5319,5380,5439,5814"
+                    },
+                    "to": {
+                        "startLines": "2,3,11,12,13,14,16,20,21,22,23,26,27,30,33,34,35,36,37,40,43,44,45,46,51,54,57,58,59,64,65,66,69,72,73,76,79,82,85,86,89,92,93,98,99,104,107,110,111,112,113,114,115,116,117,118,119",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,407,455,507,568,675,802,863,923,993,1126,1194,1323,1449,1511,1576,1644,1711,1834,1959,2026,2091,2156,2337,2458,2579,2645,2712,2922,2991,3057,3182,3308,3375,3501,3628,3753,3880,3945,4071,4194,4259,4467,4534,4714,4834,4954,5019,5081,5143,5205,5264,5324,5385,5446,5505",
+                        "endLines": "2,10,11,12,13,14,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118,127",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "111,402,450,502,563,609,797,858,918,988,1121,1189,1318,1444,1506,1571,1639,1706,1829,1954,2021,2086,2151,2332,2453,2574,2640,2707,2917,2986,3052,3177,3303,3370,3496,3623,3748,3875,3940,4066,4189,4254,4462,4529,4709,4829,4949,5014,5076,5138,5200,5259,5319,5380,5441,5500,5875"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "304,311",
+                        "startColumns": "4,4",
+                        "startOffsets": "21786,22077",
+                        "endLines": "310,313",
+                        "endColumns": "12,12",
+                        "endOffsets": "22072,22232"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "13,12,7,9,11,14,6,10,8,17,19,18,3,16,15,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "477,430,230,309,387,525,185,348,270,647,729,687,56,608,570,137,97",
+                        "endColumns": "47,46,39,38,42,44,44,38,38,39,45,41,40,38,37,47,39",
+                        "endOffsets": "520,472,265,343,425,565,225,382,304,682,770,724,92,642,603,180,132"
+                    },
+                    "to": {
+                        "startLines": "128,129,130,131,132,133,134,135,136,137,138,139,143,144,146,150,151",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5880,5928,5975,6015,6054,6097,6142,6187,6226,6265,6305,6351,6614,6655,6765,7008,7056",
+                        "endColumns": "47,46,39,38,42,44,44,38,38,39,45,41,40,38,37,47,39",
+                        "endOffsets": "5923,5970,6010,6049,6092,6137,6182,6221,6260,6300,6346,6388,6650,6689,6798,7051,7091"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "142,145,148,283,284,285,286,299,319,321,322,327,329",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6525,6694,6861,20696,20749,20802,20855,21480,22555,22731,22853,23115,23310",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "6609,6760,6929,20744,20797,20850,20903,21535,22616,22848,22909,23176,23372"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                },
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ad54b01e11b5aebf22f5f5f7fe07f4ba/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ivkaran/Documents/Android Projects/GurbaniUjagar/gurbaniUjagar/build/intermediates/res/merged/release/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ivkaran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3791685164b7486234a072fd44e82209/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -76,7 +76,7 @@ public class ShabadActivity extends SlidingActivity {
 		if (Build.VERSION.SDK_INT >= 29) {
 
 			RelativeLayout li= (RelativeLayout) findViewById(R.id.relativeLayout1);
-			li.setPadding(0,0,0,170);
+			li.setPadding(0,0,0,150);
 
 		}
 
@@ -334,7 +334,7 @@ public class ShabadActivity extends SlidingActivity {
 								break;
 						}
 						InputMethodManager inputManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-						inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+						inputManager.hideSoftInputFromWindow(getWindow().getDecorView().getRootView().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 						spe.putBoolean("english_keyboard", english_keyboard);
 						spe.commit();
 						levelDialog.dismiss();
